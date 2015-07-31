@@ -53,3 +53,21 @@ body{
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
 }
+
+
+/*media queries*/
+@media screen and (max-width: 980px) {
+    .logo span{
+        font-size: 56px;
+    }
+    .buttons {
+        display: inline;
+        top: 50%;
+        right: 20%;
+    }
+    ul li{
+        display: inline-block;
+        margin-top: 50px;
+        padding: 10px;
+    }
+}
