@@ -23,14 +23,14 @@ body{
 
 .buttons {
     position: absolute;
-    top: 5%;
+    top: 25%;
     right: 3%;
-    height: 90%;
+    height: 50%;
 
 
 }
     li {
-        padding-top: 5em;
+        padding-top: 20px;
     }
 
 
