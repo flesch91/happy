@@ -3,16 +3,18 @@ body{
     background-color: #d7344b;
 }
 .wrapper{
-    position: relative;
+
 }
 .logo{
     margin: 0 auto;
 }
 .buttons {
     position: absolute;
-    right: 50px;
-    margin: auto;
-}
+    top: 50%;
+    right: 5%;
+    height: 30%;
+    margin: -15% 0 0 -25%;
+}   
     li{
     padding-top: 19px;
 }
