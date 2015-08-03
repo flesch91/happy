@@ -28,10 +28,10 @@ body{
 
 .buttons {
     position: absolute;
-    top: 25%;
+    top: 50%;
     right: 3%;
-    height: 50%;
-
+    height: 300px;
+    margin-top: -150px;
 
 }
     li {
