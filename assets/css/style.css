@@ -1,7 +1,7 @@
 @import "reset.css";
 @font-face {
     font-family: Galano;
-    src: url(Galano_Grotesque_DEMO_Bold.otf);
+    src: url(../fonts/Galano_Grotesque_DEMO_Bold.otf);
 }
 body{
     background-color: #d7344b;
